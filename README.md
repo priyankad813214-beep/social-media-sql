@@ -37,3 +37,6 @@ This project analyzes 5,000 social media posts using PostgreSQL and Power BI.
 - TikTok generated the highest views.
 - #Challenge was the most viewed hashtag.
 - India and the UK had the highest engagement.
+
+- <img width="1600" height="859" alt="PBIDesktop_vka7KgEWKU" src="https://github.com/user-attachments/assets/1da60513-8307-4715-9fb3-0e035395f19d" />
+
